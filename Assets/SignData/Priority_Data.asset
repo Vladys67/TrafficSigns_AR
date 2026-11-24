@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8f8f7e574ee05e409847c456b34249e, type: 3}
+  m_Name: Priority_Data
+  m_EditorClassIdentifier: Assembly-CSharp::TrafficSignData
+  signName: Drum cu prioritate
+  category: Prioritate
+  description: "Indicatorul arat\u0103 c\u0103 vehiculul circul\u0103 pe un drum
+    cu prioritate. Conduc\u0103torul beneficiaz\u0103 de prioritate fa\u021B\u0103
+    de vehiculele care intr\u0103 de pe drumurile f\u0103r\u0103 prioritate."
+  audioClip: {fileID: 8300000, guid: 9cbee34c86aaa5f4a8e67b235f384c26, type: 3}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8f8f7e574ee05e409847c456b34249e, type: 3}
+  m_Name: Speed50_Data
+  m_EditorClassIdentifier: Assembly-CSharp::TrafficSignData
+  signName: "Limitare de vitez\u0103 50 km/h"
+  category: Interzicere
+  description: "Indicatorul interzice circula\u021Bia cu o vitez\u0103 mai mare de
+    50 km/h pe sectorul de drum unde acesta este valabil."
+  audioClip: {fileID: 8300000, guid: f14c990ae7d45ba498ac5b227319e454, type: 3}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8f8f7e574ee05e409847c456b34249e, type: 3}
+  m_Name: Yield_Data
+  m_EditorClassIdentifier: Assembly-CSharp::TrafficSignData
+  signName: "Cedeaz\u0103 trecerea"
+  category: Prioritate
+  description: "Indicatorul oblig\u0103 conduc\u0103torul s\u0103 acorde prioritate
+    vehiculelor care circul\u0103 pe drumul prioritar. Oprirea este necesar\u0103
+    doar dac\u0103 situa\u021Bia din trafic o impune."
+  audioClip: {fileID: 8300000, guid: db4e67f99dfc9c1429430d6d60cb74f3, type: 3}
